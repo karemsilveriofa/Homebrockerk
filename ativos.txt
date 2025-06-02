@@ -1,1 +1,2 @@
-CAD/CHF.OTC
+CAD/CHF.OFX
+
